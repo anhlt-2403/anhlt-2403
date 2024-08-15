@@ -1,34 +1,84 @@
-## Hi there 👋
+### Hi there 👋
 
-Welcome to my GitHub profile! I'm **Lê Tuấn Anh**, a Back-End Developer with a passion for building efficient and scalable systems. Here’s a bit about what I’m currently up to and what technologies I use.
+## I'm Tuan Anh Le
+![](https://komarev.com/ghpvc/?username=anhlt2003&color=0069b4)
+<table>
+  <tr>
+    <td>
+      <h2> 💻 &nbsp;About Me </h2>
+       <ul>
+            <li>🎓 &nbsp; Specialized in Software Engineering</li>
+            <li>📚 &nbsp; Back-End Developer with expertise in .NET</li>
+            <li>👑 &nbsp; Experienced in scalable and efficient server-side applications</li>
+            <li>🤔 &nbsp; Interested in API design and cloud deployment strategies</li>
+       </ul>
+       <p align="center">
+         <br>
+        <img height="150em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=anhlt2003&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
+        </p>
+    </td>
+    <td>
+     <p align="center">
+        <img height="360em" src="https://github.com/anhlt2003/anhlt2003/blob/main/dotnet.png"/>
+     </p>
+    </td>
+  </tr>
+  <tr>
+   <td>
+     <h2> 🛠 &nbsp;Tech Stack</h2>
+     <img src="https://img.shields.io/badge/-C%23-05122A?style=flat&logo=c-sharp"/>
+     <img src="https://img.shields.io/badge/-Java-05122A?style=flat&logo=java"/>
+     <img src="https://img.shields.io/badge/-Node.js-05122A?style=flat&logo=node.js"/>
+     <img src="https://img.shields.io/badge/-JavaScript-05122A?style=flat&logo=javascript"/>
+     <br>
+     <img src="https://img.shields.io/badge/-Spring%20Boot-05122A?style=flat&logo=spring"/>
+     <img src="https://img.shields.io/badge/-ASP.NET%20Core-05122A?style=flat&logo=dotnet"/>
+     <img src="https://img.shields.io/badge/-JSP-05122A?style=flat&logo=java"/>
+     <img src="https://img.shields.io/badge/-Servlet-05122A?style=flat&logo=java"/>
+     <img src="https://img.shields.io/badge/-NET%20Framework-05122A?style=flat&logo=dotnet"/>
+     <br>
+     <img src="https://img.shields.io/badge/-SQL%20Server-05122A?style=flat&logo=microsoft-sql-server"/>
+     <img src="https://img.shields.io/badge/-MySQL-05122A?style=flat&logo=mysql"/>
+     <img src="https://img.shields.io/badge/-Firebase-05122A?style=flat&logo=firebase"/>
+     <img src="https://img.shields.io/badge/-Firestore-05122A?style=flat&logo=google-cloud"/>
+     <img src="https://img.shields.io/badge/-Entity%20Framework-05122A?style=flat&logo=.net"/>
+     <br>
+     <img src="https://img.shields.io/badge/-Docker-05122A?style=flat&logo=docker"/>
+     <img src="https://img.shields.io/badge/-Git-05122A?style=flat&logo=git"/>
+     <img src="https://img.shields.io/badge/-GitHub-05122A?style=flat&logo=github"/>
+     <img src="https://img.shields.io/badge/-Swagger-05122A?style=flat&logo=swagger"/>
+     <img src="https://img.shields.io/badge/-Postman-05122A?style=flat&logo=postman"/>
+     <br>
+     <img src="https://img.shields.io/badge/-IntelliJ%20IDEA-05122A?style=flat&logo=intellijidea"/>
+     <img src="https://img.shields.io/badge/-Visual%20Studio-05122A?style=flat&logo=visual-studio"/>
+     <img src="https://img.shields.io/badge/-VS%20Code-05122A?style=flat&logo=visual-studio-code&logoColor=007ACC"/>
+     <img src="https://img.shields.io/badge/-NetBeans-05122A?style=flat&logo=apache-netbeans"/>
+   </td>
+   <td>
+    <div align="center">
+      <h2><b>How to Reach Me</b></h2>
+      <br>
+      <p>Please don't hesitate to contact me 
+        <br>if you need further information or help.
+      </p>
+      <br>
+      <a href="https://www.instagram.com/anhlt.2403/" target="_blank">
+      <img align="center" alt="Taban Soleymani | Instagram" width="30em" src="https://img.icons8.com/ios-glyphs/50/000000/instagram-new.png" />
+      </a> &nbsp;&nbsp;
+      <a href="mailto:anhlt24032003@gmail.com" >
+      <img align="center" alt="Taban Soleymani | Gmail" width="30em" src="https://img.icons8.com/ios-glyphs/50/000000/gmail.png" />
+      </a> &nbsp;&nbsp;
+      <a href="https://www.facebook.com/anhlt.2403/" >
+      <img align="center" alt="Taban Soleymani | Facebook" width="30em" src="https://img.icons8.com/ios-glyphs/50/000000/facebook.png" />
+      </a> &nbsp;&nbsp;
+      <br>
+    </div>
+   </td>
+  </tr>
+</table>
 
-### 🔭 I’m currently working with:
-- **Node.js**: Building RESTful APIs and integrating with various databases.
-- **Firebase**: Using Firebase Realtime Database and Firestore for real-time data synchronization and storage.
-- **Microsoft Entity Framework Core**: Managing database interactions and entity mappings.
-- **SQL Server**: Designing and managing relational databases for robust data handling.
-- **C#**: Developing applications with .NET framework and leveraging object-oriented programming.
-- **Java**: Building cross-platform applications and working on enterprise-level solutions.
-- **GitHub Actions**: Automating workflows and CI/CD pipelines for smoother development processes.
+------
 
-### 🌱 I’m currently learning:
-- **GraphQL**: Exploring how to efficiently query and manipulate data with GraphQL.
-- **Cloud Services**: Gaining experience with cloud platforms like AWS and deploying scalable applications.
-- **Microservices Architecture**: Understanding how to design and manage microservices for better system scalability.
+Credit: [anhlt2003](https://github.com/anhlt2003)
 
-### 👯 I’m looking to collaborate on:
-- **Open-source projects**: Especially those involving Node.js, TypeScript, C#, or Java.
-- **Innovative solutions**: Projects that integrate modern technologies and tackle challenging problems.
-
-### 🤔 I’m looking for help with:
-- **Optimizing API performance**: Techniques and best practices for improving API speed and efficiency.
-- **Cloud deployment strategies**: Best practices for deploying and scaling applications in cloud environments.
-
-### 💬 Ask me about:
-- **Back-End development**: Insights into building robust and scalable server-side applications.
-- **API design**: Designing RESTful APIs and working with modern API protocols.
-- **Database management**: Using Firebase, SQL Server, Microsoft Entity Framework Core, and other database technologies.
-
-### 📫 How to reach me:
-- [Email](mailto:anhlt24032003@gmail.com)
-- [instagram](https://www.instagram.com/anhlt.2403/)
+Last Edited on: 15/08/2024
