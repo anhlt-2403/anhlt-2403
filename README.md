@@ -40,7 +40,6 @@
      <img src="https://img.shields.io/badge/-SQL%20Server-05122A?style=flat&logo=microsoft-sql-server"/>
      <img src="https://img.shields.io/badge/-MySQL-05122A?style=flat&logo=mysql"/>
      <img src="https://img.shields.io/badge/-Firebase-05122A?style=flat&logo=firebase"/>
-     <img src="https://img.shields.io/badge/-Firestore-05122A?style=flat&logo=google-cloud"/>
      <img src="https://img.shields.io/badge/-Entity%20Framework-05122A?style=flat&logo=.net"/>
      <br>
      <img src="https://img.shields.io/badge/-Docker-05122A?style=flat&logo=docker"/>
