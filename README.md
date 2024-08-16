@@ -14,7 +14,7 @@
        </ul>
        <p align="center">
          <br>
-        <img height="150em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=anhlt-        2403&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
+        <img height="150em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=anhlt-2403&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
         </p>
     </td>
     <td>
@@ -78,6 +78,6 @@
 
 ------
 
-Credit: [anhlt2003](https://github.com/anhlt-2403)
+Credit: [anhlt-2403](https://github.com/anhlt-2403)
 
 Last Edited on: 15/08/2024
