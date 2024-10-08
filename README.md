@@ -46,7 +46,6 @@
   <img src="https://img.shields.io/badge/-Docker-05122A?style=flat&logo=docker"/>
   <img src="https://img.shields.io/badge/-Git-05122A?style=flat&logo=git"/>
   <img src="https://img.shields.io/badge/-GitHub-05122A?style=flat&logo=github"/>
-  <img src="https://img.shields.io/badge/-Swagger-05122A?style=flat&logo=swagger"/>
   <img src="https://img.shields.io/badge/-Postman-05122A?style=flat&logo=postman"/>
   <br>
   <img src="https://img.shields.io/badge/-IntelliJ%20IDEA-05122A?style=flat&logo=intellijidea"/>
@@ -81,4 +80,4 @@
 
 Credit: [anhlt-2403](https://github.com/anhlt-2403)
 
-Last Edited on: 15/08/2024
+Last Edited on: 8/10/2024
