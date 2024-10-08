@@ -14,6 +14,8 @@
        </ul>
        <p align="center">
          <br>
+            <img height="150em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=anhlt-2403&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
+         </br>
         </p>
     </td>
     <td>
