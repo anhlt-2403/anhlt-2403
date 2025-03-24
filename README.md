@@ -44,6 +44,10 @@
   <img src="https://img.shields.io/badge/-Entity%20Framework-05122A?style=flat&logo=.net"/>
   <img src="https://img.shields.io/badge/-Redis-05122A?style=flat&logo=redis"/>
   <br>
+  <img src="https://img.shields.io/badge/-Microservices-05122A?style=flat&logo=microservice"/>
+  <img src="https://img.shields.io/badge/-RabbitMQ-05122A?style=flat&logo=rabbitmq"/>
+  <img src="https://img.shields.io/badge/-SignalR-05122A?style=flat&logo=signalr"/>
+  <br>
   <img src="https://img.shields.io/badge/-Docker-05122A?style=flat&logo=docker"/>
   <img src="https://img.shields.io/badge/-Git-05122A?style=flat&logo=git"/>
   <img src="https://img.shields.io/badge/-GitHub-05122A?style=flat&logo=github"/>
@@ -54,6 +58,7 @@
   <img src="https://img.shields.io/badge/-VS%20Code-05122A?style=flat&logo=visual-studio-code&logoColor=007ACC"/>
   <img src="https://img.shields.io/badge/-NetBeans-05122A?style=flat&logo=apache-netbeans"/>
 </td>
+
    <td>
     <div align="center">
       <h2><b>How to Reach Me</b></h2>
